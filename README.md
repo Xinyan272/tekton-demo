@@ -1,2 +1,3 @@
 # tekton-demo
-The test git repo for CICD (tekton &amp; fluxcd) 
+The test git repo for CI (tekton)
+
